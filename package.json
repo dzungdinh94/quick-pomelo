@@ -29,25 +29,25 @@
         "postinstall": ""
     },
     "dependencies": {
-        "memdb-client": "~0.5.7",
-        "lodash": "~3.10.1",
-        "underscore": "~1.8.2",
-        "grunt-cli": "~0.1.13",
+        "memdb-client": "dzungdinh94/memdb-client",
+        "lodash": "~4.17.21",
+        "underscore": "~1.13.1",
+        "grunt-cli": "~1.4.3",
         "require-directory": "~2.1.1",
-        "ws" : "~0.8.0",
+        "ws": "~8.2.3",
         "pomelo-protocol": "~0.1.6",
         "pomelo-protobuf": "~0.4.0"
     },
     "devDependencies": {
-        "should": "~4.5.0",
-        "sinon": "~1.12.2",
-        "grunt-env": "~0.4.2",
-        "grunt-contrib-jshint": "~0.10.0",
-        "grunt-contrib-clean": "~0.6.0",
-        "grunt-mocha-test": "~0.12.6",
-        "load-grunt-tasks": "~2.0.0",
-        "blanket" : "~1.1.6",
-        "redis" : "~0.12.1",
-        "mongodb" : "~2.0.39"
+        "should": "~13.2.3",
+        "sinon": "~11.1.2",
+        "grunt-env": "~1.0.1",
+        "grunt-contrib-jshint": "~3.1.1",
+        "grunt-contrib-clean": "~2.0.0",
+        "grunt-mocha-test": "~0.13.3",
+        "load-grunt-tasks": "~5.1.0",
+        "blanket": "~1.2.3",
+        "redis": "~3.1.2",
+        "mongodb": "~4.1.3"
     }
 }
