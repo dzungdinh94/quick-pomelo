@@ -14,9 +14,6 @@
     },
     "keywords" : [
     ],
-    "engines": {
-        "node": ">=0.12.x"
-    },
     "scripts": {
         "start": "grunt",
         "test": "grunt test",
